@@ -2,7 +2,7 @@
 Script NodeJS que puede ser utilizado para encontrar el momento de degración de las aplicaciones que exponen endpoints http.
 Consiste en ejecutar peticiones cada n tiempo variando la concurrencia, buscando identificar como varia el throughput (TPS). Puede ser utilizado para la generación de datos que permita construir este tipo de gráficas: 
 
-![NodeJS Performance](https://github.com/dericop/http-performance-analyzer/blob/master/assets/node.png)
+![NodeJS Performance](./assets/node.png)
 
 También es una herramienta útil cuando se quiere comparar el performance ofrecido por dos frameworks, por ejemplo comparar el momento de degradación de una aplicación NodeJS vs una aplicación Spring Boot: 
 
