@@ -18,14 +18,14 @@ https://github.com/wg/wrk
 1. Abra el archivo index.js y cambie la constante apiURL por la url de la aplicación de la que desea encontrar el momento de degración. 
 
 2. Instale dependencias 
-´´´
+```
 npm install
-´´´
+```
 
 3. Ejecute la aplicación
-´´´
+```
 npm start
-´´´
+```
 
 4. Espere la ejecución de la prueba. 
 
